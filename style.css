@@ -88,3 +88,29 @@ body {
         transform: translateY(0);
     }
 }
+
+.feature-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.hobbies-section {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.hobbies-section h2 {
+    color: #5b3cc4;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+/* Reuse existing styles */
+.feature-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
